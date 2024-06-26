@@ -17,7 +17,7 @@ TypoVerse is a modern web application designed to help users improve their typin
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/typoverse.git`
+1. Clone the repository: `git clone https://github.com/your-username/TypoVerse.git`
 2. Install PHP dependencies: `composer install`
 3. Install frontend dependencies: `npm install && npm run dev`
 4. Serve the application: `php artisan serve`
